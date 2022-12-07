@@ -12,7 +12,7 @@
  
     C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
 
-    -> I am using Ubntu from college time so famliar with this OS.
+    -> I am using Ubntu from college time (around 3.5 years) so famliar with this OS.
 
 
     D. Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
